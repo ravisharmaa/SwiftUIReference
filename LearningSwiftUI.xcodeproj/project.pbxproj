@@ -21,6 +21,21 @@
 		510DF0C424E13DB4002CC74C /* SpacingInVStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DF0C324E13DB4002CC74C /* SpacingInVStack.swift */; };
 		510DF0C824E145E2002CC74C /* VStackAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510DF0C724E145E2002CC74C /* VStackAlignment.swift */; };
 		51299B7924E16FE100031311 /* LayoutHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B7824E16FE100031311 /* LayoutHStack.swift */; };
+		51299B7B24E1712900031311 /* SpacingInHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B7A24E1712900031311 /* SpacingInHStack.swift */; };
+		51299B7D24E1738400031311 /* AlignmentInHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B7C24E1738400031311 /* AlignmentInHStack.swift */; };
+		51299B8224E1B70E00031311 /* TextAlignmentInHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B8124E1B70E00031311 /* TextAlignmentInHStack.swift */; };
+		51299B8424E1BBE700031311 /* FirstAndLastTextAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B8324E1BBE700031311 /* FirstAndLastTextAlignment.swift */; };
+		51299B8624E1BFA100031311 /* CustomisingHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B8524E1BFA100031311 /* CustomisingHStack.swift */; };
+		51299B8824E2303E00031311 /* LayoutPriorityInHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B8724E2303E00031311 /* LayoutPriorityInHStack.swift */; };
+		51299B8B24E2330C00031311 /* BasicZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B8A24E2330C00031311 /* BasicZStack.swift */; };
+		51299B8D24E2777D00031311 /* LayeringWithZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B8C24E2777D00031311 /* LayeringWithZStack.swift */; };
+		51299B9024E27D8E00031311 /* GeometryExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51299B8F24E27D8E00031311 /* GeometryExample.swift */; };
+		516E864C24EA6E2100DC7A1E /* GeometryReaderPositioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516E864B24EA6E2100DC7A1E /* GeometryReaderPositioning.swift */; };
+		516E864E24EA72C000DC7A1E /* GeometryReaderSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516E864D24EA72C000DC7A1E /* GeometryReaderSize.swift */; };
+		516E865024EA770D00DC7A1E /* GeometryCoordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516E864F24EA770D00DC7A1E /* GeometryCoordinates.swift */; };
+		516E865324EA860600DC7A1E /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516E865224EA860600DC7A1E /* ButtonView.swift */; };
+		5187D45D24EBC5060058C974 /* TextCompositionInButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5187D45C24EBC5060058C974 /* TextCompositionInButton.swift */; };
+		5187D45F24EBC8FF0058C974 /* ButtonWithBackgrounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5187D45E24EBC8FF0058C974 /* ButtonWithBackgrounds.swift */; };
 		51F1D79224B72B6E0090D798 /* ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F1D79124B72B6E0090D798 /* ShapesView.swift */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +56,21 @@
 		510DF0C324E13DB4002CC74C /* SpacingInVStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacingInVStack.swift; sourceTree = "<group>"; };
 		510DF0C724E145E2002CC74C /* VStackAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStackAlignment.swift; sourceTree = "<group>"; };
 		51299B7824E16FE100031311 /* LayoutHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutHStack.swift; sourceTree = "<group>"; };
+		51299B7A24E1712900031311 /* SpacingInHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacingInHStack.swift; sourceTree = "<group>"; };
+		51299B7C24E1738400031311 /* AlignmentInHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignmentInHStack.swift; sourceTree = "<group>"; };
+		51299B8124E1B70E00031311 /* TextAlignmentInHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextAlignmentInHStack.swift; sourceTree = "<group>"; };
+		51299B8324E1BBE700031311 /* FirstAndLastTextAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstAndLastTextAlignment.swift; sourceTree = "<group>"; };
+		51299B8524E1BFA100031311 /* CustomisingHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomisingHStack.swift; sourceTree = "<group>"; };
+		51299B8724E2303E00031311 /* LayoutPriorityInHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutPriorityInHStack.swift; sourceTree = "<group>"; };
+		51299B8A24E2330C00031311 /* BasicZStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicZStack.swift; sourceTree = "<group>"; };
+		51299B8C24E2777D00031311 /* LayeringWithZStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayeringWithZStack.swift; sourceTree = "<group>"; };
+		51299B8F24E27D8E00031311 /* GeometryExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryExample.swift; sourceTree = "<group>"; };
+		516E864B24EA6E2100DC7A1E /* GeometryReaderPositioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderPositioning.swift; sourceTree = "<group>"; };
+		516E864D24EA72C000DC7A1E /* GeometryReaderSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderSize.swift; sourceTree = "<group>"; };
+		516E864F24EA770D00DC7A1E /* GeometryCoordinates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryCoordinates.swift; sourceTree = "<group>"; };
+		516E865224EA860600DC7A1E /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		5187D45C24EBC5060058C974 /* TextCompositionInButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextCompositionInButton.swift; sourceTree = "<group>"; };
+		5187D45E24EBC8FF0058C974 /* ButtonWithBackgrounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonWithBackgrounds.swift; sourceTree = "<group>"; };
 		51F1D79124B72B6E0090D798 /* ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -74,6 +104,12 @@
 		5101DD8424A24C4D009778FB /* LearningSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				516E865124EA85EF00DC7A1E /* ControlViews */,
+				51299B8E24E27D7700031311 /* GeometryReader */,
+				51299B8924E232C400031311 /* ZStackExamples */,
+				51299B8024E1B6E400031311 /* Basics */,
+				51299B7F24E1B6D000031311 /* VStackExamples */,
+				51299B7E24E1B6BB00031311 /* HStackExamples */,
 				5101DD8524A24C4D009778FB /* AppDelegate.swift */,
 				5101DD8724A24C4D009778FB /* SceneDelegate.swift */,
 				5101DD8924A24C4D009778FB /* ContentView.swift */,
@@ -81,15 +117,6 @@
 				5101DD9024A24C50009778FB /* LaunchScreen.storyboard */,
 				5101DD9324A24C50009778FB /* Info.plist */,
 				5101DD8D24A24C50009778FB /* Preview Content */,
-				51F1D79124B72B6E0090D798 /* ShapesView.swift */,
-				510DF0B924E12F16002CC74C /* LayoutBehavior.swift */,
-				510DF0BB24E130BC002CC74C /* LayoutBehaviorPushOut.swift */,
-				510DF0BD24E135F7002CC74C /* PreviewsIntro.swift */,
-				510DF0BF24E1372B002CC74C /* VerticalStacks.swift */,
-				510DF0C124E13AF4002CC74C /* NestingVStack.swift */,
-				510DF0C324E13DB4002CC74C /* SpacingInVStack.swift */,
-				510DF0C724E145E2002CC74C /* VStackAlignment.swift */,
-				51299B7824E16FE100031311 /* LayoutHStack.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -100,6 +127,72 @@
 				5101DD8E24A24C50009778FB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		51299B7E24E1B6BB00031311 /* HStackExamples */ = {
+			isa = PBXGroup;
+			children = (
+				51299B7824E16FE100031311 /* LayoutHStack.swift */,
+				51299B7A24E1712900031311 /* SpacingInHStack.swift */,
+				51299B7C24E1738400031311 /* AlignmentInHStack.swift */,
+				51299B8124E1B70E00031311 /* TextAlignmentInHStack.swift */,
+				51299B8324E1BBE700031311 /* FirstAndLastTextAlignment.swift */,
+				51299B8524E1BFA100031311 /* CustomisingHStack.swift */,
+				51299B8724E2303E00031311 /* LayoutPriorityInHStack.swift */,
+			);
+			path = HStackExamples;
+			sourceTree = "<group>";
+		};
+		51299B7F24E1B6D000031311 /* VStackExamples */ = {
+			isa = PBXGroup;
+			children = (
+				510DF0BF24E1372B002CC74C /* VerticalStacks.swift */,
+				510DF0C124E13AF4002CC74C /* NestingVStack.swift */,
+				510DF0C324E13DB4002CC74C /* SpacingInVStack.swift */,
+				510DF0C724E145E2002CC74C /* VStackAlignment.swift */,
+			);
+			path = VStackExamples;
+			sourceTree = "<group>";
+		};
+		51299B8024E1B6E400031311 /* Basics */ = {
+			isa = PBXGroup;
+			children = (
+				51F1D79124B72B6E0090D798 /* ShapesView.swift */,
+				510DF0B924E12F16002CC74C /* LayoutBehavior.swift */,
+				510DF0BB24E130BC002CC74C /* LayoutBehaviorPushOut.swift */,
+				510DF0BD24E135F7002CC74C /* PreviewsIntro.swift */,
+			);
+			path = Basics;
+			sourceTree = "<group>";
+		};
+		51299B8924E232C400031311 /* ZStackExamples */ = {
+			isa = PBXGroup;
+			children = (
+				51299B8A24E2330C00031311 /* BasicZStack.swift */,
+				51299B8C24E2777D00031311 /* LayeringWithZStack.swift */,
+			);
+			path = ZStackExamples;
+			sourceTree = "<group>";
+		};
+		51299B8E24E27D7700031311 /* GeometryReader */ = {
+			isa = PBXGroup;
+			children = (
+				51299B8F24E27D8E00031311 /* GeometryExample.swift */,
+				516E864B24EA6E2100DC7A1E /* GeometryReaderPositioning.swift */,
+				516E864D24EA72C000DC7A1E /* GeometryReaderSize.swift */,
+				516E864F24EA770D00DC7A1E /* GeometryCoordinates.swift */,
+			);
+			path = GeometryReader;
+			sourceTree = "<group>";
+		};
+		516E865124EA85EF00DC7A1E /* ControlViews */ = {
+			isa = PBXGroup;
+			children = (
+				516E865224EA860600DC7A1E /* ButtonView.swift */,
+				5187D45C24EBC5060058C974 /* TextCompositionInButton.swift */,
+				5187D45E24EBC8FF0058C974 /* ButtonWithBackgrounds.swift */,
+			);
+			path = ControlViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -175,16 +268,31 @@
 			files = (
 				5101DD8624A24C4D009778FB /* AppDelegate.swift in Sources */,
 				510DF0C824E145E2002CC74C /* VStackAlignment.swift in Sources */,
+				516E865324EA860600DC7A1E /* ButtonView.swift in Sources */,
+				51299B7D24E1738400031311 /* AlignmentInHStack.swift in Sources */,
+				516E865024EA770D00DC7A1E /* GeometryCoordinates.swift in Sources */,
 				510DF0C224E13AF4002CC74C /* NestingVStack.swift in Sources */,
+				51299B8624E1BFA100031311 /* CustomisingHStack.swift in Sources */,
 				510DF0BA24E12F16002CC74C /* LayoutBehavior.swift in Sources */,
+				516E864E24EA72C000DC7A1E /* GeometryReaderSize.swift in Sources */,
 				510DF0C024E1372B002CC74C /* VerticalStacks.swift in Sources */,
+				5187D45D24EBC5060058C974 /* TextCompositionInButton.swift in Sources */,
 				51299B7924E16FE100031311 /* LayoutHStack.swift in Sources */,
+				5187D45F24EBC8FF0058C974 /* ButtonWithBackgrounds.swift in Sources */,
+				516E864C24EA6E2100DC7A1E /* GeometryReaderPositioning.swift in Sources */,
+				51299B8B24E2330C00031311 /* BasicZStack.swift in Sources */,
+				51299B8824E2303E00031311 /* LayoutPriorityInHStack.swift in Sources */,
+				51299B7B24E1712900031311 /* SpacingInHStack.swift in Sources */,
 				5101DD8824A24C4D009778FB /* SceneDelegate.swift in Sources */,
 				510DF0BE24E135F7002CC74C /* PreviewsIntro.swift in Sources */,
 				51F1D79224B72B6E0090D798 /* ShapesView.swift in Sources */,
 				510DF0BC24E130BC002CC74C /* LayoutBehaviorPushOut.swift in Sources */,
+				51299B9024E27D8E00031311 /* GeometryExample.swift in Sources */,
 				510DF0C424E13DB4002CC74C /* SpacingInVStack.swift in Sources */,
+				51299B8424E1BBE700031311 /* FirstAndLastTextAlignment.swift in Sources */,
 				5101DD8A24A24C4D009778FB /* ContentView.swift in Sources */,
+				51299B8D24E2777D00031311 /* LayeringWithZStack.swift in Sources */,
+				51299B8224E1B70E00031311 /* TextAlignmentInHStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,7 +360,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -306,7 +414,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
